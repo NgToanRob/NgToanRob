@@ -37,7 +37,7 @@
 
 - 🌐 [Personal Website](https://ngtoanrob.github.io/)
 - 📧 nguyentoan10601@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/ngtoanrob) *(if available)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/ngtoanrob)
 - 📝 [Hugging Face](https://huggingface.co/ngtoanrob)
 
 ---
